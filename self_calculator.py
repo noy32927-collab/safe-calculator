@@ -41,6 +41,9 @@ class SafeCalculator:
         }
 
     def evaluate(self,expr:str):
+        """
+        ユーザー入力の数式を安全に評価する
+        """
 
         # 前回結果(ana)の置換
         if self.last_result is not None:
