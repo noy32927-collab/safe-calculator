@@ -22,7 +22,7 @@ Pythonのastを使って安全に数式を評価する電卓です。
 - 関数の引数チェック設計
 
 ## 使用例
-![demo](calculator_demo.jpg)
+![demo](calculator_demo.png)
 
 2+3*4=14
 sin(pi/2)=1.0
